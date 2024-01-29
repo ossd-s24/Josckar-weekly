@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+My blog is hosted [here](https://ossd-s24.github.io/Josckar-weekly/).
