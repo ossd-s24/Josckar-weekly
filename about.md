@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fourth year CS Student @ NYU taking a class on open source programming.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Also bad at giving elevator pitches.
