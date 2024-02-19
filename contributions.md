@@ -23,5 +23,6 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 18  | [OpenStreetMap](https://www.openstreetmap.org/user/Josckar/history#map=18/40.63638/-73.89667) | OpenStreetMap | I added a short name to a childhood street I lived on. |
 |     |     |     |      |
 |     |     |     |      |
