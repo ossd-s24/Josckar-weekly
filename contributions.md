@@ -25,17 +25,17 @@ Replace the first row with your own contribution.
 
 | Feb 18  | [OpenStreetMap](https://www.openstreetmap.org/user/Josckar/history#map=18/40.63638/-73.89667) | OpenStreetMap | I added a short name to a childhood street I lived on. |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247820)  | Open Food Facts | I suggested a translation for "Hide prices older than 30 days" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247820)  | Open Food Facts Translation | I suggested a translation for "Hide prices older than 30 days" |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247822)  | Open Food Facts | I suggested a translation for "Number of scans" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247822)  | Open Food Facts Translation | I suggested a translation for "Number of scans" |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247828)  | Open Food Facts | I suggested a translation for "Addition date" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247828)  | Open Food Facts Translation | I suggested a translation for "Addition date" |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247830)  | Open Food Facts | I suggested a translation for "Price date" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#247830)  | Open Food Facts Translation | I suggested a translation for "Price date" |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#246940)  | Open Food Facts | I suggested a translation for "My prices" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#246940)  | Open Food Facts Translation | I suggested a translation for "My prices" |
 
-| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#246948)  | Open Food Facts | I suggested a translation for "My proofs" |
+| March 7 | [Crowdin](https://crowdin.com/editor/openfoodfacts/3544/en-es?view=comfortable&filter=basic&value=0#246948)  | Open Food Facts Translation | I suggested a translation for "My proofs" |
 
 | March 30 | [Course Website](https://github.com/joannakl/ossd/issues/107#event-12548067897) | Raised Issue | Raised issue of incorrect due dates on assigments |
 
@@ -43,34 +43,38 @@ Replace the first row with your own contribution.
 
 |  April 18  | [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10143#issuecomment-2063429653)  |  Code  | Fixed the issue of the embedded description for the website not appearing. |
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2865/en-es?view=comfortable&filter=basic&value=0#q=216029) | Open Food Facts | Submitted a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2865/en-es?view=comfortable&filter=basic&value=0#q=216029) | Open Food Facts Translation | Submitted a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217159) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217159) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217213) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217213) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217219) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217219) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217239) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217239) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217243) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217243) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217259) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217259) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217287) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217287) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217289) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217289) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217291) | Open Food Facts | Suggested a translation and raised an issue on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217291) | Open Food Facts Translation | Suggested a translation and raised an issue on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217293) | Open Food Facts | Suggested a translation and raised an issue on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217293) | Open Food Facts Translation | Suggested a translation and raised an issue on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217295) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217295) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217297) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217297) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217323 ) | Open Food Facts | Suggested a translation on Crowdin | 
+| May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable&filter=basic&value=0#217323 ) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
 | May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217313) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
 | May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217319) | Open Food Facts Translation | Suggested a translation on Crowdin | 
+
+| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221941731) | Wikipedia | Suggested a change on the MyFitnessPal Wiki |
+
+| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221942363) | Wikipedia | Suggested a change on the MyFitnessPal Wiki |
