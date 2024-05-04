@@ -39,7 +39,9 @@ Replace the first row with your own contribution.
 
 | March 30 | [Course Website](https://github.com/joannakl/ossd/issues/107#event-12548067897) | Raised Issue | Raised issue of incorrect due dates on assigments |
 
-|  April 7   | [OpenStreetMap](https://www.openstreetmap.org/changeset/149711586#map=19/40.72512/-73.97387)  | OpenStreetMap    | I added a short name to E 11 St.|
+|  April 7   | [OpenStreetMap](https://www.openstreetmap.org/changeset/149711586#map=19/40.72512/-73.97387)  | OpenStreetMap | I added a short name to E 11 St. |
+
+| April 17 | [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server/issues/9321) | OpenFoodFacts | I had an issue closed on OpenFoodFacts |
 
 |  April 18  | [OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10143#issuecomment-2063429653)  |  Code  | Fixed the issue of the embedded description for the website not appearing. |
 
