@@ -75,6 +75,8 @@ Replace the first row with your own contribution.
 
 | May 2 | [Crowdin](https://crowdin.com/editor/openfoodfacts/2891/en-es?view=comfortable#217319) | Open Food Facts Translation | Suggested a translation on Crowdin | 
 
-| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221941731) | Wikipedia | Suggested a change on the MyFitnessPal Wiki |
+| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221941731) | Wikipedia | Made a change on the MyFitnessPal Wiki |
 
-| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221942363) | Wikipedia | Suggested a change on the MyFitnessPal Wiki |
+| May 2 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=MyFitnessPal&diff=prev&oldid=1221942363) | Wikipedia | Made a change on the MyFitnessPal Wiki |
+
+| May 4 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Indeed&diff=prev&oldid=1222189842) | Wikipedia | Made a change on the Indeed Wiki |
